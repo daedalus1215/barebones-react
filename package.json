@@ -1,5 +1,5 @@
 {
-  "name": "disney-res-event-maker-client",
+  "name": "barebones",
   "version": "0.0.1",
   "description": "the ui for making Disney Reservation events",
   "main": "index.js",
